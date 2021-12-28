@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, create a .env file a put the firebase credentials there, than run the development server:
 
 ```bash
 npm run dev
